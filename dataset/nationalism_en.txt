@@ -1,0 +1,75 @@
+#default mode of extraction for keywords → substrings, case insensitive
+#if keyword is in brackets [ ] → exact the exatct string (not as substring), case sensitive, including wildcards
+corona
+covid
+sars
+vaccin
+vaxxed
+vax‘ed
+booster
+spike protein
+antigen
+biontech
+comirnaty
+mrna
+janssen
+spikevax
+johnson & johnson
+johnson and johnson
+astra zeneca
+astrazeneca
+pfizer-biontech
+moderna
+novavax
+sputnik
+aifa
+vaxzevria
+jcovden
+nuvaxovid
+sanofi pasteur
+bimervax
+vidprevtyn
+valneva
+mortality
+herd immunity
+incidence
+lethality
+personal protection equipment
+mask
+gloves
+hand sanitizer
+respiratory
+ffp2
+ffp3
+stay at home
+six feet
+save lives
+bubble
+stay safe
+flatten the curve
+lockdown
+quarantine
+isolation
+test
+shutdown
+curfew
+restriction
+virus
+delta
+omicron
+kraken
+variant
+alpha
+beta
+mutation
+pandemic
+epidemic
+normality
+normalcy
+new normal
+schengen
+entry ban
+wave
+infection
+[ppe]
+[PCR]  
